@@ -1,5 +1,5 @@
 {
-    "name": "@lannxv-pro/baileys",
+    "name": "@lannxv22-pro/baileys",
     "version": "2.0.3",
     "description": "WhatsApp API Modification By K",
     "keywords": [
@@ -12,9 +12,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/lannxv-pro/bails",
+    "homepage": "https://github.com/lannxv22-pro/bails",
     "repository": {
-        "url": "https://github.com/lannxv-pro/bails"
+        "url": "https://github.com/lannxv22-pro/bails"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:lannxv-pro/libsignal-node",
+        "libsignal": "github:lannxv22-pro/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
